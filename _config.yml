@@ -1,0 +1,12 @@
+title: Jason Hinch
+description: Software Developer
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-cayman
+
+github:
+    is_project_page: false
+
